@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSuite.CalendarTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-28T13:11:14" hostname="LAPTOP-V6TDORT5" time="22.14">
+  <properties/>
+  <testcase name="verifyAddCalculator()" classname="testSuite.CalendarTest" time="22.14"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
